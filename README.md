@@ -14,3 +14,4 @@ If the number entered is correct, the number will stay on the board and the grid
 
 If the number entered is wrong, a message will pop up and the number will not stay on the board.
 
+![ezgif-4-47c8b93e44](https://user-images.githubusercontent.com/95162919/210282833-d1bea579-1a9d-4551-b8d2-1a60df42b547.gif)
