@@ -9,7 +9,8 @@ It can generate random Sudoku boards and solutions using the backtracking algori
 The white grids are for the user to fill.
 The user can right click on a grid and enter a number.
 If the number entered is correct, the number will stay on the board and the grid will trun blue.
-https://user-images.githubusercontent.com/95162919/210282536-c67c7bfd-34c4-4a56-8ccd-9360ae5fbf7a.mp4
+![ezgif-4-2396fe220a](https://user-images.githubusercontent.com/95162919/210282699-fd6fa46d-a7e6-411e-b601-717466a0a084.gif)
+
 
 If the number entered is wrong, a message will pop up and the number will not stay on the board.
 
